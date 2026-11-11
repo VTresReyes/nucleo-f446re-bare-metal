@@ -1,0 +1,30 @@
+# Build output (STM32CubeIDE)
+Debug/
+Release/
+build/
+
+# Compiler and linker artifacts
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+*.cyclo
+*.srec
+*.exe
+
+# IDE workspace and local settings
+.metadata/
+.settings/
+*.launch
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*~
